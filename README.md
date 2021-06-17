@@ -1,3 +1,3 @@
-# Cv_Sakshi
+# MyCV
 About me # Connect with me
 I created this website using Html,Css,JavaScript,Php,Bootstrap.
